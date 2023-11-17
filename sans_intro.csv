@@ -1,0 +1,64 @@
+0,Sound,mus_zz_megalovania,0
+0,CombatZoneResizeInstant,225,225,225,225
+0,SansAnimation
+0,SansHead,ClosedEyes
+2,SansText,it is,
+0,SansText,a beautiful day outside,
+0,SansText,birds are singing,
+0,SansText,flowers are blooming,
+0,SansText,on days like these,
+0,SansText,kids like you,
+0,Sound,Flash,
+0,BlackScreen,1
+0,SansHead,NoEyes
+1,Sound,Flash,
+0,BlackScreen,0
+1.5,SansText,SHOULD BE BURNING,
+0,SansText,IN HELL,
+0,CombatZoneResizeInstant,225,215,415,387
+0,HeartTeleport,320,300,320,300
+0.125,SansSlam,1
+0,SansBody,HandDown
+0,BoneStab,1,60,0.5,0.25
+0.5,SansBody,HandUp
+0.5,SansBody,HandLeft
+0,SineBones,50,20,400,60
+0,HeartMode,0
+0,Sound,GasterBlaster,
+0,Sound,Ding,
+2.5,SansSlam,0
+0,SansBody,HandRight
+0,BoneStab,0,30,0.375,0.25
+0.375,SansBody,HandLeft
+0.45,HeartMode,1
+0,Sound,Ding,
+0,SansBody,Default
+0.25,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+1,BoneV,128,220,132,0,210
+0,BoneV,128,366,20,0,210
+0,BoneV,503,220,132,2,210
+0,BoneV,503,366,20,2,210
+0,Sound,BoneStab,
+0.75,SansSlam,2
+0,SansBody,HandLeft
+0,BoneStab,2,30,0.375,0.125
+0.375,SansBody,HandRight
+0.5,SansSlam,3
+0,SansBody,HandUp
+0,BoneStab,3,30,0.375,0.125
+0.375,SansBody,HandDown
+0.5,SansTorso,Default
+0,HeartMode,0
+0,Sound,Ding,
+2,SansHead,ClosedEyes
+2.5,SansTorso,Shrug
+0.5,SansHead,Wink
+0,SansText,good luck,
+0,SansTorso,Default
+0,SansHead,Default
+0,SansAnimation,Idle
+0,Sound,mus_zz_megalovania,1
+0,EndAttack

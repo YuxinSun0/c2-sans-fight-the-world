@@ -1,0 +1,16 @@
+0,CombatZoneResize,133,205,508,391
+0,HeartTeleport,320,376
+0.5,Sound,Ding,
+0,HeartMode,1
+0,BoneVRepeat,133,356,40,0,120,200,15
+0,PlatformRepeat,552,346,51,2,120,15,140
+0,PlatformRepeat,-20,300,51,0,120,15,140
+0,PlatformRepeat,552,245,51,2,120,15,140
+0,SET,i,0
+0,SET,angle,0
+0,JMPE,16,$i,270
+0,GasterBlaster,0,320,0,320,300,$angle,0.625,0.25
+0,ADD,angle,$angle,2.5
+0,ADD,i,$i,1
+0.0625,JMPABS,11
+2,EndAttack
